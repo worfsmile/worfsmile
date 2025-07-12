@@ -13,7 +13,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
-Hi, I'm Sy Zheng, a data enthusiast focused on machine learning and graph-based recommendation systems from Xi'an Jiaotong University..      
+Hi, I'm Sy Zheng, a data enthusiast focused on machine learning and graph-based recommendation systems from Xi'an JiaoTong University.    
 
 
 
