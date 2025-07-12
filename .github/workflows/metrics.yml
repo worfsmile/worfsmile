@@ -27,7 +27,9 @@ jobs:
           # Options
           user: worfsmile
           template: classic
-          base: header, activity, community, repositories, metadata
+          # base: header, activity, community, repositories, metadata
+          base: header, activity, community, metadata
+
           config_display: large
           config_timezone: Asia/Shanghai
           #plugin_calendar: yes
@@ -40,7 +42,7 @@ jobs:
           plugin_habits_from: 200
           plugin_habits_languages_limit: 8
           plugin_habits_languages_threshold: 0%
-          plugin_habits_trim: yes
+          # plugin_habits_trim: yes
           # plugin_isocalendar: yes
           # plugin_isocalendar_duration: full-year
           #plugin_achievements: yes
