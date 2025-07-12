@@ -20,4 +20,4 @@ Hi, I'm Sy Zheng, a data enthusiast focused on machine learning and graph-based 
 ## Education
 `2022.09 - now` B.S. in Computer Science and Technology Experimental Class, ___Xi'an Jiaotong University___ [<img src="https://raw.githubusercontent.com/reallinshengxiang/reallinshengxiang1.github.io/refs/heads/master/images/xjtu.webp"  align = "right"  width="2.2%"/>](http://en.xjtu.edu.cn/about.html)      
 
-`2024.06 - 2024.07` Visiting Student, ___National University of Singapore___ 
+`2024.06 - 2024.07` Visiting Student, ___National University of Singapore___ [<img src="https://raw.githubusercontent.com/worfsmile/worfsmile/master/img/nus.png"  align = "right"  width="2.2%"/>](https://www.nus.edu.sg/)      
