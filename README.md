@@ -13,7 +13,7 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...-->
-Hi, I'm Sy Zheng, a data enthusiast focused on machine learning and graph-based recommendation systems from Xi'an JiaoTong University.    
+Hi, I'm Sy Zheng, an undergraduate student of Qian Xuesen Honor College / Department of Electronics and Information Science, Zhongying College Computer Experimental Class 2201 ( expected graduation in July 2026 ).    
 
 
 
